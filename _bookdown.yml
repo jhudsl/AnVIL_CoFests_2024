@@ -5,8 +5,6 @@ rmd_files: ["index.Rmd",
             "organizer-guide.Rmd",
             "scalable-ml.Rmd",
             "prs-analysis.Rmd",
-            "variant-seqr.Rmd",
-            "biodigs-classroom.Rmd",
             "wrap-tool.Rmd",
             # "01-intro.Rmd",
             # "02-chapter_of_course.Rmd",
@@ -30,4 +28,3 @@ language:
 output_dir: "docs"
 output:
     bookdown::html_book
-      
