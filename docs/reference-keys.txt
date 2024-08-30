@@ -1,6 +1,4 @@
 scalable-ml-and-data-science
 polygenic-risk-score-analysis
-variant-analysis-with-seqr
-biodigs-in-the-classroom
 wrap-a-tool-with-wdl
 references
