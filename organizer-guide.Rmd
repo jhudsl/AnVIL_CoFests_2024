@@ -25,7 +25,7 @@ Prior to the CoFests, the scientific and AnVIL co-leads will work together to en
   - Scalable Machine Learning and Data Science
   - Polygenic Risk Score Analysis
   - Wrap a Tool (+ Intro AnVIL/WDL)
-- Scientific Lead and AnVIL Co-Lead for support
+- Scientific Lead and AnVIL Outreach Co-Lead for support
 - We expect 4-10 participants per track
 
 ## Example Schedule for a Track {- .unlisted}
