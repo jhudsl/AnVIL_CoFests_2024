@@ -44,6 +44,6 @@ Day 2 (3 hrs scheduled)
 | Task                      | Suggested time | Lead                  | Description |
 |:-------------------------:|:---------------|:----------------------|:------------|
 | Work-regroup, work-regroup| 2 - 2.5 hrs    | --                    | Formal collaboration work time (with a coffee break) |
-| Construct a "report out"  | 30 - 60 mins   | AnVIL Outreach Co-lead| The report out may be a Google doc, Google slides, a GitHub repo, [a website](https://github.com/jhudsl/OTTR_Template_Website), an [OTTR book](https://github.com/jhudsl/OTTR_Template), etc.|
+| Construct a "report out"  | 30 - 60 minutes| AnVIL Outreach Co-lead| The report out may be a Google doc, Google slides, a GitHub repository, [a website](https://github.com/jhudsl/OTTR_Template_Website), an [OTTR book](https://github.com/jhudsl/OTTR_Template), etc.|
 
 End of Day 2: Share final report during the CoFest Recap Session!  
