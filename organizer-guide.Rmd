@@ -31,7 +31,7 @@ Prior to the CoFests, the scientific and AnVIL co-leads will work together to en
 ## Example Schedule for a Track {- .unlisted}
 
 - First Day (2.5 hrs scheduled):
-  - Problem statement (perhaps with a short demo) by scientific lead
+  - Problem statement by scientific lead
 
     This part of the session will provide background info on the track's overall topic and may include a brief summary of the pre-worked ideas. Perhaps 20-30 minutes?
 
