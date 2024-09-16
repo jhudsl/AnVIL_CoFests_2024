@@ -33,7 +33,7 @@ Prior to the CoFests, the scientific and AnVIL co-leads will work together to en
 - First Day (2.5 hrs scheduled):
   - Problem statement by scientific lead
 
-    This part of the session will provide background info on the track's overall topic and may include a brief summary of the pre-worked ideas. Perhaps 20-30 minutes?
+    This part of the session will provide background info on the track's overall topic and may include a brief summary of the pre-worked ideas. [Suggested time: 20-30 minutes]
 
   - Brainstorming
 
