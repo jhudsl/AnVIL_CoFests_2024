@@ -7,9 +7,9 @@ This event is a key event for professionals in the genomics community interested
 
 ## CoFests! Goals {- .unlisted}
 
-- Build community (and be inclusive for newcomers)
+- Build an inclusive community that is supportive of newcomers
 - Contribute to [open science](https://en.wikipedia.org/wiki/Open_science)
-- Report out a final product that accomplishes one of the following for a topic
+- Produce a final product that accomplishes one of the following for a topic
   - Makes useful forward progress
   - Identifies opportunities and boundaries or limitations
 
