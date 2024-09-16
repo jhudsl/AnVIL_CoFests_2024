@@ -53,4 +53,4 @@ Prior to the CoFests, the scientific and AnVIL co-leads will work together to en
 
     The report out may be a Google doc, Google slides, a GitHub repo, [a website](https://github.com/jhudsl/OTTR_Template_Website), an [OTTR book](https://github.com/jhudsl/OTTR_Template), etc.
 
-- Share report out during the CoFest Recap Session!  
+- Share final report during the CoFest Recap Session!  
