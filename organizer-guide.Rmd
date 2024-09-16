@@ -30,7 +30,7 @@ Prior to the CoFests, the scientific and AnVIL co-leads will work together to en
 
 ## Example Schedule for a Track {- .unlisted}
 
-Day 1 (2.5 hrs scheduled)
+### Day 1 (2.5 hrs scheduled)
 
 | Task                      | Suggested time | Lead                  | Description |
 |:-------------------------:|:---------------|:----------------------|:------------|
@@ -39,7 +39,7 @@ Day 1 (2.5 hrs scheduled)
 | Onboarding                | 30-60 minutes  | AnVIL Outreach Co-lead| Handle billing accounts and other logistics necessary to accomplish the work |
 | Work-regroup, work-regroup| 30-60 minutes  | --                    | Formal collaboration work time left before dinner. (Groups may choose to work together informally after dinner too) |
 
-Day 2 (3 hrs scheduled)
+### Day 2 (3 hrs scheduled)
 
 | Task                      | Suggested time | Lead                  | Description |
 |:-------------------------:|:---------------|:----------------------|:------------|
