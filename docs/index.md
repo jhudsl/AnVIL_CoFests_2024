@@ -1,6 +1,6 @@
 ---
 title: "AnVIL CoFests! 2024"
-date: "September 17, 2024"
+date: "September 18, 2024"
 site: bookdown::bookdown_site
 documentclass: book
 bibliography: book.bib
@@ -15,7 +15,7 @@ favicon: assets/AnVIL_style/anvil_favicon.ico
 CollaborationFests!, also known as **CoFests!** (and sometimes as "hackathons"), are collaborative work events where we expand and improve the AnVIL community and the AnVIL ecosystem.
 Sometimes these gatherings are focused on AnVIL, and sometimes they are part of larger communities.
 
-* *Modified from https://galaxyproject.org/events/cofests*
+* *Modified from <https://galaxyproject.org/events/cofests>*
 
 ## What's in a name: CollaborationFests! and Hackathons {- .unlisted}
 
