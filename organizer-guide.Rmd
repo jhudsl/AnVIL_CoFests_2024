@@ -1,14 +1,11 @@
 # Organizer Guide {-}
 
-The inaugural AnVIL Community Conference 2024 CoFests! will take place on November 12-13, 2024 in Cold Spring Harbor, NY.
-This event is a key event for professionals in the genomics community interested in biomedical and genomic cloud computing and takes place immediately before the sixth meeting on [Biological Data Science](https://meetings.cshl.edu/meetings.aspx?meet=DATA&year=24).
-
-- https://anvilproject.org/events/anvil2024-community-conference
+The inaugural AnVIL Community Conference (ACC) 2024 will take place on November 12-13, 2024 in Cold Spring Harbor, NY, immediately before the sixth meeting on [Biological Data Science](https://meetings.cshl.edu/meetings.aspx?meet=DATA&year=24). Overall, [ACC](https://anvilproject.org/events/anvil2024-community-conference) is a key event for professionals in the genomics community interested in biomedical and genomic cloud computing and features keynotes, town halls, CoFests! and other such component events. CoFests! provide attendees the opportunity to get some hands-on experience with AnVIL and foster connections within the AnVIL community.
 
 ## CoFests! Goals {- .unlisted}
 
 - Build an inclusive community that is supportive of newcomers
-- Contribute to [open science](https://en.wikipedia.org/wiki/Open_science)
+- Collaborate and contribute to [open science](https://en.wikipedia.org/wiki/Open_science)
 - Produce a final product that accomplishes one of the following for a topic
   - Makes useful forward progress
   - Identifies opportunities and boundaries or limitations
