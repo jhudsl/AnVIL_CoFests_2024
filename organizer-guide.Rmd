@@ -13,6 +13,8 @@ This event is a key event for professionals in the genomics community interested
   - Makes useful forward progress
   - Identifies opportunities and boundaries or limitations
 
+## Final Product {-}
+
 The final product of CoFests doesn't need to be code! These Collaboration Fests can support story-boarding future work or development of documentation or training materials. If it's something that will help the community and make progress on an AnVIL associated topic and there's sufficient interest, the idea is game! [As Galaxy phrased it for their CoFests:](https://galaxyproject.org/events/gcc2023/cofest/#goals)
 
 > [The goal of collaboration fests is to expand the ecosystem] Not just the code, but the whole ecosystem. That includes training, tools, best practice workflows, documentation, test cases, translations, infrastructure, and yes, even code.  
