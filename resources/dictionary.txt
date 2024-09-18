@@ -1,5 +1,6 @@
 AnVIL
 BioDIGS
+BioC
 BiocManager
 bioinformatics
 biomedical
@@ -8,6 +9,7 @@ Bloomberg
 callout
 Callout
 CoFest
+cofests
 CoFests
 colData
 CollaborationFests
@@ -16,6 +18,7 @@ customizations
 dex
 dexamethasone
 dropdown
+galaxyproject
 GDSCN
 github
 Glimma
@@ -24,6 +27,7 @@ Gmail
 Hackathon
 hackathons
 Hackathons
+https
 impactful
 Inclusivity
 Jupyter
