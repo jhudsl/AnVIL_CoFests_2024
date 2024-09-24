@@ -1,4 +1,4 @@
 scalable-ml-and-data-science
-polygenic-risk-score-analysis
+polygenic-risk-score-prs-analysis-in-anvil
 how-to-run-your-tool-in-anvil-with-wdl
 references
