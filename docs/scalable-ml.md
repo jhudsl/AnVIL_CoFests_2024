@@ -1,3 +1,7 @@
 # (PART\*) Topics {-}
 
-# Scalable ML and Data Science
+# Deploying, Training, and Interpreting Deep Learning Models for regulatory genomics in AnVIL
+
+Led by: Anshul Kundaje & Vivek Ramalingam, Stanford University
+
+AnVIL Outreach coordinator: Kate Isaac
