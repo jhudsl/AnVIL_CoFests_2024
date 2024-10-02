@@ -6,6 +6,7 @@ rmd_files: ["index.Rmd",
             "scalable-ml.Rmd",
             "prs-analysis.Rmd",
             "wrap-tool.Rmd",
+            "feat-reqs.Rmd",
             "About.Rmd",
             "References.Rmd"]
 new_session: yes
