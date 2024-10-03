@@ -16,13 +16,13 @@ The inaugural AnVIL Community Conference (ACC) 2024 will take place on November 
   - Scalable Machine Learning and Data Science
   - Polygenic Risk Score Analysis
   - Wrap a Tool (+ Intro AnVIL/WDL)
-- Scientific Lead and AnVIL Outreach co-Lead for support
+- Scientific Lead and AnVIL Outreach coordinator for support
 - We expect 4-10 participants per track
 
-Prior to the CoFests, the scientific and AnVIL Outreach co-Leads will work together to enumerate some ideas for final products and post them publicly in this book.
+Prior to the CoFests, the scientific lead and AnVIL Outreach coordinators will work together to enumerate some ideas for final products and post them publicly in this book.
 
 ::: {.notice}
-The AnVIL Outreach co-Lead will help add content to this guide, onboard newer AnVIL users to the platform, and provide guidance on the final product / report out.
+The AnVIL Outreach coordinator will help add content to this guide, onboard newer AnVIL users to the platform, and provide guidance on the final product / report out.
 :::
 
 ## Final Product / Report Out {-}
@@ -43,7 +43,7 @@ It helps us a lot if you can fill out some basic [Report Out details](https://do
 |:-------------------------:|:-----------:|
 | **Problem statement.** Provide background info on the track's overall topic and may include a brief summary of the pre-worked collaboration ideas. | 20-30 minutes (Scientific Lead) |
 | **Brainstorming.** What project will the track tackle? Focus on understanding the participant backgrounds and skills and matching those with track ideas and actionable tasks to accomplish the goal. | 15-30 minutes (Both) |
-| **Onboarding.** Handle billing accounts and other logistics necessary to accomplish the work. | 30-60 minutes (AnVIL Outreach co-Lead) | 
+| **Onboarding.** Handle billing accounts and other logistics necessary to accomplish the work. | 30-60 minutes (AnVIL Outreach coordinator) |
 | **Work-regroup, work-regroup.** Formal collaboration work time left before dinner. (Groups may choose to work together informally after dinner too) | 30-60 minutes (N/A) |
 
 ### Day 2 (3 hours) {-}
@@ -51,4 +51,4 @@ It helps us a lot if you can fill out some basic [Report Out details](https://do
 | Task                      | Time & Lead |
 |:-------------------------:|:------------|
 | **Work-regroup, work-regroup.** Formal collaboration work time (with a coffee break). | 2-2.5 hours (N/A) |
-| **Construct a "report out".** The report out may be a Google doc, Google slides, a GitHub repository, [a website](https://github.com/jhudsl/OTTR_Template_Website), an [OTTR book](https://github.com/jhudsl/OTTR_Template), etc. | 30-60 minutes (AnVIL Outreach co-Lead) |
+| **Construct a "report out".** The report out may be a Google doc, Google slides, a GitHub repository, [a website](https://github.com/jhudsl/OTTR_Template_Website), an [OTTR book](https://github.com/jhudsl/OTTR_Template), etc. | 30-60 minutes (AnVIL Outreach coordinator) |
