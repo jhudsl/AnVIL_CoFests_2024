@@ -1,6 +1,7 @@
 ACC
 Anshul
 AnVIL
+AnVIL's
 BioDIGS
 BioC
 BiocManager
@@ -10,6 +11,8 @@ BIPOC
 Bloomberg
 callout
 Callout
+Carpinteyro
+Cliffe
 CoFest
 cofests
 CoFests
@@ -45,6 +48,7 @@ NHGRI's
 Onboarding
 OTTR
 ottrpal
+pipelining
 plotMDS
 Polygenic
 pre
@@ -60,6 +64,7 @@ Rmd
 RStudio
 Scalable
 seqr
+skillset
 timeframe
 underserved
 Vivek
