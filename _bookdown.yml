@@ -8,7 +8,8 @@ rmd_files: ["index.Rmd",
             "wrap-tool.Rmd",
             "feat-reqs.Rmd",
             "About.Rmd",
-            "References.Rmd"]
+            "References.Rmd"
+            "appendix.Rmd"]
 new_session: yes
 bibliography: [book.bib]
 delete_merged_file: true
