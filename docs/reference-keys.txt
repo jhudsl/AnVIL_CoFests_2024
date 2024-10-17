@@ -1,7 +1,9 @@
 deploying-training-and-interpreting-deep-learning-models-for-regulatory-genomics-in-anvil
+about-this-track
+report-out
 polygenic-risk-score-prs-analysis-in-anvil
 how-to-run-your-tool-in-anvil-with-wdl
 brainstorming-feature-requests-for-anvil
-about-this-track
-report-out
+about-this-track-1
+report-out-1
 references
