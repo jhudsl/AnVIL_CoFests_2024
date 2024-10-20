@@ -1,6 +1,6 @@
 ---
-title: "AnVIL Book Name"
-date: "July 18, 2023"
+title: "AnVIL CoFests! 2024"
+date: "October 20, 2024"
 site: bookdown::bookdown_site
 documentclass: book
 bibliography: book.bib
@@ -10,31 +10,27 @@ description: Description about Course/Book.
 favicon: assets/AnVIL_style/anvil_favicon.ico
 ---
 
+# What are CoFests!? {-}
 
-# About this Book {-}
+CollaborationFests!, also known as **CoFests!** (and sometimes as "hackathons"), are collaborative work events where we expand and improve the AnVIL community and the AnVIL ecosystem.
+Sometimes these gatherings are focused on AnVIL, and sometimes they are part of larger communities.
 
-This book is part of a series of books for the Genomic Data Science Analysis, Visualization, and Informatics Lab-space (AnVIL) of the National Human Genome Research Institute (NHGRI). Learn more about AnVIL by visiting https://anvilproject.org or reading the [article in Cell Genomics](https://www.sciencedirect.com/science/article/pii/S2666979X21001063).
+* *Modified from <https://galaxyproject.org/events/cofests>*
 
-## Skills Level {-} 
+## What's in a name: CollaborationFests! and Hackathons {- .unlisted}
 
-::: {.notice}
-_Genetics_
-<!-- **Novice**: no genetics knowledge needed -->
+We collaborate.
 
-_Programming skills_
-<!-- **Novice**: no programming experience needed -->
-:::
+AnVIL collaborative events are emphatically called CollaborationFests! rather than Hackathons.
+Putting **Collaboration** in the name emphasizes what the events are about for us, and **Fest** communicates that they are fun events (which they are).
 
-## AnVIL Collection {-}
+"Hackathon" implies an emphasis on code.
+CoFests! are about contributing and learning how to contribute to all aspects of AnVIL, including training material, community infrastructure, documentation, unit tests, bug reports, and yes, even code.
+First and foremost AnVIL CoFests! are about growing the community of future contributors.
+
+* *Idea inspiration from [[GCC2024](https://galaxyproject.org/events/gcc2024/cofest)][[GCC2018](https://galaxyproject.org/events/gccbosc2018/collaboration)]*
+* *Reporting inspiration from [[BioC2018](https://bioconductor.github.io/BiocWorkshops)][[BioC2020](http://bioc2020.bioconductor.org/workshops.html)][[BioC2023](https://bioc2023.bioconductor.org/workshops/)]*
+
+## AnVIL Collection {- .unlisted}
 
 Please check out our full collection of AnVIL and related resources: https://hutchdatascience.org/AnVIL_Collection/
-
-# Learning Objectives {-}
-
-<!-- Learning objectives for this activity come from the [Genetics Core Competencies](https://genetics-gsa.org/education/genetics-learning-framework/): -->
-
-<!-- - Objective 1 -->
-<!-- - Objective 2 -->
-<!-- - Objective 3 -->
-
-<!-- Please also see the Bioinformatics core competencies for undergraduate life sciences education from NIBLSE: https://journals.plos.org/plosone/article/figure?id=10.1371/journal.pone.0196878.t002 -->
