@@ -2,6 +2,7 @@ ACC
 Anshul
 AnVIL
 AnVIL's
+ATAC
 BioDIGS
 BioC
 BiocManager
@@ -12,6 +13,7 @@ Bloomberg
 callout
 Callout
 Carpinteyro
+ChIP
 Cliffe
 CoFest
 cofests
@@ -50,6 +52,7 @@ OTTR
 ottrpal
 pipelining
 plotMDS
+polygenic
 Polygenic
 pre
 precompiled
@@ -70,6 +73,7 @@ underserved
 Vivek
 WDL
 wip
+workspaces
 Workspaces
 Workspace's
 www
