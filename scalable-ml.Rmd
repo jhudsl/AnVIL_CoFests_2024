@@ -12,7 +12,7 @@ The "Deploying, Training, and Interpreting Deep Learning Models for Regulatory G
 
 ## Workspaces
 
-The workspaces that will be used for this CoFest! are used to train and analyze basepair resolution neural network models on Transcription factor ChIP-seq datasets (BPNet) and to process train and analyze ChromBPNet style models on ATAC and DNase datasets.
+The workspaces that will be used for this CoFest! are used to train and analyze base pair resolution neural network models on Transcription factor ChIP-seq datasets (BPNet) and to process train and analyze ChromBPNet style models on ATAC and DNase datasets.
 
 - [BPNet workspace](https://anvil.terra.bio/#workspaces/terra-billing-vir/BPNet)
 - [ChromBPNet workspace](https://anvil.terra.bio/#workspaces/terra-billing-vir/ChromBPNet)

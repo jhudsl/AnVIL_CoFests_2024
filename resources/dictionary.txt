@@ -11,10 +11,12 @@ bioinformatics
 biomedical
 BIPOC
 Bloomberg
+BPNet
 callout
 Callout
 Carpinteyro
 ChIP
+ChromBPNet
 Cliffe
 cofest
 CoFest
@@ -26,6 +28,7 @@ CoV
 customizations
 dex
 dexamethasone
+DNase
 dropdown
 galaxyproject
 GDSCN
