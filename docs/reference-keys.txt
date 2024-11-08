@@ -1,9 +1,14 @@
 deploying-training-and-interpreting-deep-learning-models-for-regulatory-genomics-in-anvil
 about-this-track
+workspaces
 report-out
 polygenic-risk-score-prs-analysis-in-anvil
-how-to-run-your-tool-in-anvil-with-wdl
 about
+workspace
+how-to-run-your-tool-in-anvil-with-wdl
+about-1
+workspace-1
+prep-work
 schedule
 tuesday-nov-12-2024-2.5-hours
 wednesday-nov-13-2024-3-hours
