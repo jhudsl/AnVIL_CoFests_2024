@@ -1,3 +1,4 @@
+acc
 ACC
 Anshul
 AnVIL
@@ -10,11 +11,14 @@ bioinformatics
 biomedical
 BIPOC
 Bloomberg
+BPNet
 callout
 Callout
 Carpinteyro
 ChIP
+ChromBPNet
 Cliffe
+cofest
 CoFest
 cofests
 CoFests
@@ -24,6 +28,7 @@ CoV
 customizations
 dex
 dexamethasone
+DNase
 dropdown
 galaxyproject
 GDSCN
@@ -42,8 +47,10 @@ Jupyter
 Kundaje
 Lebo
 limma
+lmm
 MDS
 mentorship
+mgb
 NCI
 NHGRI
 NHGRI's
@@ -68,9 +75,12 @@ RStudio
 Scalable
 seqr
 skillset
+terra
 timeframe
 underserved
 Vivek
+Vivekanandan
+wdl
 WDL
 wip
 workspaces

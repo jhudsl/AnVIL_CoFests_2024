@@ -8,6 +8,17 @@ AnVIL Outreach coordinator: Javier Carpinteyro-Ponce
 
 Workflow Description Language (WDL) not in your programming skillset? No problem! Learn to wrap your pipelining tool in WDL and run it in an AnVIL workspace in this CoFest! session. We’ll go over WDL basics and how to run pipelines in AnVIL, then walk through how to run your own Unix/Python/R script. Along the way, you’ll write a WDL and build a custom Docker to run it with. Come and wrap a tool of interest! All experience levels are welcome. We’ll brainstorm and, if time allows, we’ll create resources (tutorials? AnVIL book? Cheat sheet?) for others to use to run their non-WDL tool in AnVIL.  
 
+## Workspace
+
+The workspace for this topic can be found at [https://anvil.terra.bio/#workspaces/acc2024-cofest-wdl/AnVIL_CoFest2024_Wrap-a-tool-in-WDL](https://anvil.terra.bio/#workspaces/acc2024-cofest-wdl/AnVIL_CoFest2024_Wrap-a-tool-in-WDL).
+
+## Prep work
+
+Participants on this topics should:
+
+    1. Download the Dockstore desktop app from [https://www.docker.com/products/docker-desktop/](https://www.docker.com/products/docker-desktop/).
+    2. Register for a DockerHub account at [https://hub.docker.com/](https://hub.docker.com/).
+
 ## Schedule
 
 ### Tuesday Nov 12, 2024 (2.5 hours)
