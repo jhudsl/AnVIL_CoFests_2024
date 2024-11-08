@@ -1,3 +1,4 @@
+acc
 ACC
 Anshul
 AnVIL
@@ -15,6 +16,7 @@ Callout
 Carpinteyro
 ChIP
 Cliffe
+cofest
 CoFest
 cofests
 CoFests
@@ -42,8 +44,10 @@ Jupyter
 Kundaje
 Lebo
 limma
+lmm
 MDS
 mentorship
+mgb
 NCI
 NHGRI
 NHGRI's
@@ -68,9 +72,12 @@ RStudio
 Scalable
 seqr
 skillset
+terra
 timeframe
 underserved
 Vivek
+Vivekanandan
+wdl
 WDL
 wip
 workspaces
