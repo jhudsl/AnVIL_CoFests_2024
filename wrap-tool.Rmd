@@ -16,8 +16,8 @@ The workspace for this topic can be found at [https://anvil.terra.bio/#workspace
 
 Participants on this topics should:
 
-    1. Download the Dockstore desktop app from [https://www.docker.com/products/docker-desktop/](https://www.docker.com/products/docker-desktop/).
-    2. Register for a DockerHub account at [https://hub.docker.com/](https://hub.docker.com/).
+1. Download the Dockstore desktop app from [https://www.docker.com/products/docker-desktop/](https://www.docker.com/products/docker-desktop/).
+2. Register for a DockerHub account at [https://hub.docker.com/](https://hub.docker.com/).
 
 ## Schedule
 
