@@ -37,3 +37,7 @@ Participants on this topics should:
 | **Coffee break** | 2:30pm - 3:00pm |
 | **Report Out** | 3:00pm - 4:00pm |
 | **CoFest! recap** | 4:00pm |
+
+## Slides
+
+Slides for this topic can be found [here](https://docs.google.com/presentation/d/1s83zP55EZTl0HmXCp0mO97JQmDNR1sTiDr_931aO6RE/edit?usp=sharing).
