@@ -12,6 +12,7 @@ prep-work
 schedule
 tuesday-nov-12-2024-2.5-hours
 wednesday-nov-13-2024-3-hours
+slides
 brainstorming-feature-requests-for-anvil
 about-this-track-1
 report-out-1
