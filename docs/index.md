@@ -1,6 +1,6 @@
 ---
 title: "AnVIL CoFests! 2024"
-date: "November 12, 2024"
+date: "January 29, 2025"
 site: bookdown::bookdown_site
 documentclass: book
 bibliography: book.bib
@@ -34,3 +34,4 @@ First and foremost AnVIL CoFests! are about growing the community of future cont
 ## AnVIL Collection {- .unlisted}
 
 Please check out our full collection of AnVIL and related resources: https://hutchdatascience.org/AnVIL_Collection/
+
