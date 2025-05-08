@@ -1,6 +1,6 @@
 ---
 title: "AnVIL CoFests! 2024"
-date: "January 29, 2025"
+date: "May 08, 2025"
 site: bookdown::bookdown_site
 documentclass: book
 bibliography: book.bib
